@@ -24,7 +24,31 @@
                     "samples": []
                 }
             ],
-            "types": []
+            "types": [
+                {
+                    "name": "Music.Player",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "<speak> audio src='https://www.bensound.com/royalty-free-music/track/pop-dance' </speak>",
+                                "value1": "<speak> audio src='https://www.bensound.com/royalty-free-music/track/happy-rock' </speak>",
+                                "value2": "<speak> audio src='https://www.bensound.com/royalty-free-music/track/hey-happy-cheerful' </speak>",
+                                "value3": "<speak> audio src='https://www.bensound.com/royalty-free-music/track/clear-day' </speak>",
+                                "value4": "<speak> audio src='https://www.bensound.com/royalty-free-music/track/jazzy-frenchy' </speak>",
+                                "value5": "<speak> audio src='https://www.bensound.com/royalty-free-music/track/this-is-your-time-catchy-royalty-free-music' </speak>",
+                                "value6": "<speak> audio src='https://www.bensound.com/royalty-free-music/track/sunny' </speak>",
+                                "value7": "<speak> audio src='https://freemusicarchive.org/music/Strobotone/C3SIX__The_C3S_Ignition_Mix/Strobotone_-_San_Fran_Interlude_Edit_1091' </speak>",
+                                "value8": "<speak> audio src='https://freemusicarchive.org/music/Lobo_Loco/Diversity_of_Life/Aldebaraner_Funky_Disco_ID_1126_1357' </speak>",
+                                "value9": "<speak> audio src='https://freemusicarchive.org/music/Duncan_Reid_and_the_Big_Heads/Live_at_Monty_Hall_6142018/Duncan_Reid_17_First_Time' </speak>",
+                                "value10": "<speak> audio src='https://freemusicarchive.org/music/Loyalty_Freak_Music/ROLLER_DISCO_DANCE_DANCE/Loyalty_Freak_Music_-_ROLLER_DISCO_DANCE_DANCE_-_02_Dance_Robot_ACTIVATE' </speak>",
+                                "value11": "<speak> audio src='https://www.bensound.com/royalty-free-music/track/high-octane-heavy-hard-rock-metal' </speak>",
+                                "value12": "<speak> audio src='https://freemusicarchive.org/music/Nathaniel_Wyvern/2019_releases_collection/Nathaniel_Wyvern_-_Infiltrators' </speak>",
+                                "value13": "<speak> audio src='https://freemusicarchive.org/music/Loyalty_Freak_Music/ROLLER_DISCO_DANCE_DANCE/Loyalty_Freak_Music_-_ROLLER_DISCO_DANCE_DANCE_-_08_Last_Energy_For_The_Day' </speak>"
+                            }
+                        }
+                    ]
+                }
+            ]
         }
     }
 }
