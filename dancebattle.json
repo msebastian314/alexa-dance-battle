@@ -5,32 +5,65 @@
             "intents": [
                 {
                     "name": "AMAZON.FallbackIntent",
-                    "samples": []
+                    "samples": [
+                        "leave"
+                    ]
                 },
                 {
                     "name": "AMAZON.CancelIntent",
-                    "samples": []
+                    "samples": [
+                        "cancel"
+                    ]
                 },
                 {
                     "name": "AMAZON.HelpIntent",
-                    "samples": []
+                    "samples": [
+                        "help"
+                    ]
                 },
                 {
                     "name": "AMAZON.StopIntent",
-                    "samples": []
+                    "samples": [
+                        "stop"
+                    ]
                 },
                 {
                     "name": "AMAZON.NavigateHomeIntent",
-                    "samples": []
+                    "samples": [
+                        "home",
+                        "back"
+                    ]
+                },
+                {
+                    "name": "FirstOpenedYes",
+                    "slots": [],
+                    "samples": [
+                        "yeah",
+                        "yes",
+                        "of course",
+                        "oh yeah",
+                        "why not"
+                    ]
+                },
+                {
+                    "name": "FirstOpenedNo",
+                    "slots": [],
+                    "samples": [
+                        "nope",
+                        "no",
+                        "of course not",
+                        "oh no",
+                        "i don't think so"
+                    ]
                 }
             ],
             "types": [
                 {
-                    "name": "Music.Player",
+                    "name": "MusicPlayer",
                     "values": [
                         {
                             "name": {
-                                "value": "<speak> audio src='https://freemusicarchive.org/music/Loyalty_Freak_Music/ROLLER_DISCO_DANCE_DANCE/Loyalty_Freak_Music_-_ROLLER_DISCO_DANCE_DANCE_-_08_Last_Energy_For_The_Day' </speak>"
+                                "value": "<speak> audio src='https://freemusicarchive.org/music/Loyalty_Freak_Music/ROLLER_DISCO_DANCE_DANCE/Loyalty_Freak_Musi' </speak>"
                             }
                         },
                         {
@@ -40,12 +73,12 @@
                         },
                         {
                             "name": {
-                                "value": "<speak> audio src='https://freemusicarchive.org/music/Duncan_Reid_and_the_Big_Heads/Live_at_Monty_Hall_6142018/Duncan_Reid_17_First_Time' </speak>"
+                                "value": "<speak> audio src='https://www.bensound.com/royalty-free-music/track/high-octane-heavy-hard-rock-metal' </speak>"
                             }
                         },
                         {
                             "name": {
-                                "value": "<speak> audio src='https://freemusicarchive.org/music/Loyalty_Freak_Music/ROLLER_DISCO_DANCE_DANCE/Loyalty_Freak_Music_-_ROLLER_DISCO_DANCE_DANCE_-_02_Dance_Robot_ACTIVATE' </speak>"
+                                "value": "<speak> audio src='https://freemusicarchive.org/music/Loyalty_Freak_Music/ROLLER_DISCO_DANCE_DANCE/Loyalty_Freak_Music' </speak>"
                             }
                         },
                         {
