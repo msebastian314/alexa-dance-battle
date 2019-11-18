@@ -132,6 +132,111 @@
                             }
                         }
                     ]
+                },
+                {
+                    "name": "AwardType",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "Who rode the bust-a-move express?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who danced their heart out?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who lit up the dance floor?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who busted a move?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who shook the room?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who was the Mayor of Funkytown?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who was the life of the party?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who was the dancing energizer?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who was dance royalty?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who was a funny buddy?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who was a powerhouse?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who was a dancing captain?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who was a funky monkey?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who was a dance machine?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "<Who had the coolest moves?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who had smooth moves?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who had dance fever?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who had the grooviest moves?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who had the best moves?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Who had the silliest moves?"
+                            }
+                        }
+                    ]
                 }
             ]
         }
